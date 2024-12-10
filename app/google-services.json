@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "163395008122",
+    "project_id": "omer-1c245",
+    "storage_bucket": "omer-1c245.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:163395008122:android:668c7089888fdccf01edc3",
+        "android_client_info": {
+          "package_name": "com.example.reg_log"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6f5Gr5ByPyJ0cS485YBYqUn2Lk7zEnQY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
